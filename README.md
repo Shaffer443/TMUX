@@ -107,7 +107,7 @@ ou caindo direto no __rename-window__:
 
 **ctrl + b + ,** 
 
-* Recarregar Configuraçẽos do Tmux;
+* Recarregar Configuraçẽos do Tmux, após alteração na __.tmux.conf__;
 ```
 $ tmux source .tmux.conf  
-``
+```
