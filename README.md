@@ -19,7 +19,7 @@ Essa notação pode parecer um pouco estranha se você não estiver acostumado, 
 
 * Para dividir a tela com dois painéis horizontais use o comando:
 &nbsp;
-**C-b + %**
+** C-b + % **
 
 Lembrando o que acabei de lhe contar sobre a sequência de prefixo e tecla de comando do tmux, com o comando acima vamos dividir seu painel único em dois painéis, um esquerdo e outro direito, __pressionando Ctrl e b ao mesmo tempo, solte os dois e digite a tecla %__.
 
