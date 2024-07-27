@@ -67,14 +67,14 @@ $ tmux ls
 ```
 
 Para me anexar a sessão antigo basta executar o comando:
-
+```
 $ tmux a -t session_name
-
-* Abrindo uma Nova Janela:
+``
+* Abrindo uma Nova Janela
 
 **ctrl + b + c** 
 
-* Para criar uma nova sessão nomeada, execute o comando tmux com os seguintes argumentos:
+* Para criar uma nova sessão nomeada, execute o comando tmux com os seguintes argumentos
 ```
 $ tmux new -s session_name
 ```
