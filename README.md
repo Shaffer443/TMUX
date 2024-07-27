@@ -1,7 +1,8 @@
-TMUX - Terminal Multiplexer </n></n>
+TMUX - Terminal Multiplexer 
+------
 link: https://dev.to/collabcode/tmux-para-iniciantes-4kg8
-
--Abrir TMUX:
+&nbsp;
+* Abrir TMUX:
 ```
 $ tmux
 ```
