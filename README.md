@@ -69,7 +69,8 @@ $ tmux ls
 Para me anexar a sessão antigo basta executar o comando:
 ```
 $ tmux a -t session_name
-``
+```
+
 * Abrindo uma Nova Janela
 
 **ctrl + b + c** 
