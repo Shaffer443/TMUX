@@ -25,11 +25,11 @@ Lembrando o que acabei de lhe contar sobre a sequência de prefixo e tecla de co
 
 Voilà! Você acabou de invocar um atalho do tmux e dividir seu painel em dois.
 
-* Criar Aba Inferior: uma divisão de painéis superior e inferior.
+* Criar Aba Inferior: uma divisão de painéis superior e inferior
+  
 **ctrl + b + "**
 
-
-* Criar Aba Inferior e a divide (caso já haja alguma criada na bse inferior):
+* Criar Aba Inferior e a divide (caso já haja alguma criada na bse inferior)
 
 **ctrl + b + %**
 
