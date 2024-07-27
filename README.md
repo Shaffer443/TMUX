@@ -1,9 +1,10 @@
-TMUX - Terminal Multiplexer
+TMUX - Terminal Multiplexer <b><b>
 link: https://dev.to/collabcode/tmux-para-iniciantes-4kg8
 
     Abrir TMUX:
-
+```
 $ tmux
+```
 
     Tecla Padrão de Prefixo ctrl + b
 
@@ -17,15 +18,16 @@ Essa notação pode parecer um pouco estranha se você não estiver acostumado, 
 
 Para dividir a tela com dois painéis horizontais use o comando:
 
-C-b + %
+**C-b + %**
 
 Lembrando o que acabei de lhe contar sobre a sequência de prefixo e tecla de comando do tmux, com o comando acima vamos dividir seu painel único em dois painéis, um esquerdo e outro direito, pressionando Ctrl e b ao mesmo tempo, solte os dois e digite a tecla %.
 
 Voilà! Você acabou de invocar um atalho do tmux e dividir seu painel em dois.
 
     Criar Aba Inferior: uma divisão de painéis superior e inferior.
-
+```
 ctrl + b + "
+```
 
     Criar Aba Inferior e a divide (caso já haja alguma criada na bse inferior):
 
