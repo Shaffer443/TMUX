@@ -1,14 +1,14 @@
-TMUX - Terminal Multiplexer <b><b>
+TMUX - Terminal Multiplexer </b></b>
 link: https://dev.to/collabcode/tmux-para-iniciantes-4kg8
 
-    Abrir TMUX:
+-Abrir TMUX:
 ```
 $ tmux
 ```
 
-    Tecla Padrão de Prefixo ctrl + b
+Tecla Padrão de Prefixo: __ctrl + b__
 
-Dividindo a tela em painéis
+-Dividindo a tela em painéis
 
 Agora que criamos nossa primeira sessão, podemos ter uma ideia dos painéis. Quando você cria uma nova sessão, o tmux inicia por padrão com uma janela e um único painel dentro, mas queremos dividir nossa tela.
 
